@@ -1,0 +1,15 @@
+body {
+  margin: auto;
+  padding: 111px;
+  font-family: 'Playfair Display', serif;
+  font-family: 'Anton', sans-serif;
+  font-family: 'Sunshiney', cursive;
+   text-align: center;
+   font-size: x-large;
+   font-weight: bolder;
+   background-color: steelblue;
+
+}
+footer {
+  clear: both;
+}
